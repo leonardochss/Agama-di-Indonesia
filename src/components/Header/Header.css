@@ -1,0 +1,25 @@
+.navbar-custom {
+  background-color: #0080ff;
+}
+
+.navbar-custom .navbar-brand {
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+@media (max-width: 768px) {
+  .navbar-custom .navbar-nav {
+    text-align: left;
+    margin-top: 10px;
+  }
+
+  .navbar-custom .navbar-collapse {
+    justify-content: flex-start;
+  }
+}

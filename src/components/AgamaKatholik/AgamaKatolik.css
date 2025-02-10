@@ -1,0 +1,33 @@
+.agama-katolik {
+  max-width: 5000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card {
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card h2 {
+  margin-top: 0;
+  color: rgb(182, 125, 50);
+}
+
+.card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card ul li {
+  margin-bottom: 10px;
+}
+
+.card ul li strong {
+  margin-right: 5px;
+}
+.katolikimg {
+  background-image: url(katolikimg.jpg);
+}

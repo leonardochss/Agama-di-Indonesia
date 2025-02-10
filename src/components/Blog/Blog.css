@@ -1,0 +1,26 @@
+.blog-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.blog-card {
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}

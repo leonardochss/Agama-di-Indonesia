@@ -1,0 +1,54 @@
+.agama-buddha {
+  max-width: 5000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.agama-buddha .card {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.agama-buddha .card h1 {
+  color: #58ad58;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.agama-buddha .card h2 {
+  color: #58ad58; /* Ubah warna sesuai kebutuhan */
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.agama-buddha .card p {
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.agama-buddha .card ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 10px;
+}
+
+.agama-buddha .card li {
+  margin-bottom: 5px;
+}
+
+.agama-buddha .card li strong {
+  font-weight: bold;
+}
+
+.agama-buddha .card li:before {
+  content: "\2022";
+  color: #333;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bgbudha {
+  background-image: url(budhaimg.webp);
+}

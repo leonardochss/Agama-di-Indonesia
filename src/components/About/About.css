@@ -1,0 +1,27 @@
+.about-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.team-card, .sources-card, .vision-mission-card, .contact-card, .acknowledgment-card {
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+}

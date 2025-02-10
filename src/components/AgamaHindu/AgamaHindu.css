@@ -1,0 +1,45 @@
+.card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 5000px;
+    margin: 0 auto;
+    
+  }
+.subtopic-card {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.subtopic-card h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: rgb(84, 164, 108)
+}
+.subtopic-card p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #000000;
+}
+.subtopic-card ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+  
+.subtopic-card ul li {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+  
+.subtopic-card ul li strong {
+    font-weight: bold;
+    color: #000000;
+}
+.bghindu{
+    background-image: url(AgamaHindu.jpg);
+}
